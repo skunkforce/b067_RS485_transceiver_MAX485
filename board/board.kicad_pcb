@@ -193,7 +193,7 @@
       (net 10 "/max485/B") (pinfunction "B") (pintype "bidirectional") (tstamp 00eb9a4d-0cfd-4609-9892-114e4614c211))
     (pad "8" smd roundrect (at 2.575 -1.905) (size 1.75 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 2 "+5V") (pinfunction "VCC") (pintype "power_in") (tstamp 6444062b-e174-4e5e-aa00-b0151937e83a))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
